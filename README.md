@@ -11,7 +11,8 @@ to include the code for preservation tools used in these processes.
 
 ## Tools
 
-* [patsy-db]: Command-line client for preservation asset tracking system (PATSy)
+* [aws-archiver]: Command-line preservation archiving tool for S3
+* [patsy]: Command-line client for preservation asset tracking system (PATSy)
 * [preserve]: Command-line digital preservation utilities
 
 ## Documentation
@@ -25,5 +26,6 @@ this project.
 
 *Source: [docs/process.puml](docs/process.puml)*
 
-[patsy-db]: https://github.com/umd-lib/patsy-db
+[aws-archiver]: https://github.com/umd-lib/aws-archiver
+[patsy]: https://github.com/umd-lib/patsy
 [preserve]: https://github.com/umd-lib/preserve
